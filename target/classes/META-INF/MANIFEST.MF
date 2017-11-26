@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestApi
+Implementation-Version: 1.0.0
+Built-By: srinivas.rao
+Implementation-Vendor-Id: com.intellect
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stApi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
